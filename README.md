@@ -49,6 +49,9 @@ requirements.txt
 
 Remember to store two image files in the "berbig_haro_images" directory as the script.
 
+Example output:
+![Comparison Example](berbig_haro_images/comparison_example_output.png)
+
 ## License
 
     [Your chosen license]
